@@ -28,9 +28,13 @@ twitter_username: jdksloan
 github_username:  jdksloan
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+
+minimal_mistakes_skin:  "neon" # "air", "aqua", "contrast", "dark", "dirt", "default", "mint", "plum" "sunrise"
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.

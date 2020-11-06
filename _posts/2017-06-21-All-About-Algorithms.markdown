@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "All About Algorithms"
 date:   2017-05-21 10:14:45 +0200
 categories: Posts

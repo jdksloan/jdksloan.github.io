@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: single
 title: "Hello World"
 date:   2017-04-11 11:01:45 +0200
 categories: Posts
 ---
 
 
-
-![My helpful screenshot]({{ site.url | append:site.baseurl}}/images/hello-world.jpg)
+![banner](/assets/TSC-Banner.png)
 
 Welcome to The Silent Coder.
 
