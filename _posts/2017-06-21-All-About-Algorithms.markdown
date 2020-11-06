@@ -1,8 +1,11 @@
 ---
-layout: single
 title: "All About Algorithms"
-date:   2017-05-21 10:14:45 +0200
-categories: Posts
+last_modified_at: 2016-03-09T16:20:02-05:00
+categories:
+  - Blog
+tags:
+  - code
+  - standard
 ---
 
 
