@@ -5,9 +5,8 @@ categories:
   - Blog
 tags:
   - code
-  - standard
+  - c#
 ---
-
 
 Algorithms are the reason I started coding in the first place.
 Mathematics was a subject that always interested me and loved the thrill of solving problems using theoretical ideas.
