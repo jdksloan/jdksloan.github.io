@@ -6,8 +6,6 @@ categories:
 tags:
   - code
   - typescript
-  - aws
-  - lambda
 ---
 
 Welcome back to my blog,
